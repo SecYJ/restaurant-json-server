@@ -282,9 +282,7 @@
 	],
 	"orders": [
 		{
-			"userID": "xxx1",
-			"ordersHistory": [],
-			"name": "bla bla bla"
+			"id": "xxx1"
 		}
 	]
 }
